@@ -3,9 +3,9 @@ pandas
 matplotlib
 seaborn
 shap
-scikit-learn
+scikit-learn==1.4.2
 geopy
 folium
-pycaret
-tensorflow
+pycaret==3.3.2
+tensorflow==2.16.1
 optuna
